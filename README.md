@@ -13,10 +13,11 @@
 
 - 💬 Ask me about **Backend Development**
 
-- 📫 How to reach me **batiar.rahmamulia@gmail.com or [Linkedin](https://www.linkedin.com/in/batiar-afas)**
+- 📫 How to reach me **batiar.rahmamulia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/batiar-afas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batiar-afas" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/afasari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="afasari" height="30" width="40" /></a>
 </p>
 
