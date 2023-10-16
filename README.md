@@ -5,3 +5,5 @@
 - 👯 I’m looking to collaborate on **open source/commercial projects**
 - 💬 Ask me about **Backend Development**
 - 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/batiar-afas)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/afasari)](https://leetcode.com/afasari)
